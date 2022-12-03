@@ -1,4 +1,5 @@
 ![hero banner](/hero%20altermate.PNG)
+
 I am a second year at Baliuag University, undertaking Bachelor of Sicence in Information Technology specialization in web development. I am interested in web development especially in backend development.
 
 <hr>
