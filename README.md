@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <head>
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css'>  
     <style>
@@ -232,3 +233,4 @@
 JohnDanielTejero/JohnDanielTejero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</html>
