@@ -8,7 +8,6 @@ for any inquires, please contact me:
 - via email `johndanieltejero23@gmail.com`
 - via whatsapp `+63 939 641 6091`
 - or refer to the links given in the hero banner
-- aaaaa
 <hr>
 
 ## I Am Currently Learning:
