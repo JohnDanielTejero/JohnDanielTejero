@@ -113,118 +113,121 @@
         }
     </style>
 </head>
-<div class = "hero">
-    <img src = "./coding.jpg" class = "float-img"/>
-    <main class = "content">
-        <h1 class = "header-title">HI, I AM JOHN DANIEL TEJERO.</h1>
-        <h4 class = "header-title" style = "margin-bottom:2rem;">BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY</h4>
-        <section class = "p-language">
-            <h4 class = "header-title">
-                Languages Known
-            </h4>
-            <div class = "language-container">
-                <span class = "language-icon">
-                    <i class="fa-brands fa-java"></i>
-                </span>
-                <span class = "language-icon">
-                    <i class="fa-brands fa-js"></i>
-                </span>
-                <span class = "language-icon">
-                    <i class="fa-brands fa-php"></i>
-                </span>
-                <span class = "language-icon">
-                    <i class="fi fi-brands-typescript"></i>
-                </span>
-                <span class = "language-icon">
-                    <i class="fa-brands fa-html5"></i>
-                </span>
-                <span class = "language-icon">
-                    <i class="fa-brands fa-css3-alt"></i>
-                </span>
-                <span class = "language-icon">
-                    <i class="fi fi-brands-mysql"></i>
-                </span>
-            </div>
-        </section>
-        <section class = "frameworks" style = "height:10rem;">
-            <h4 class = "header-title">
-                Frameworks and Tools
-            </h4>
-            <div class = "f-container">
-                <span class = "f-icon">
-                    <i class="fa-brands fa-react"></i>
-                </span>
-                <span class = "f-icon">
-                    <i class="fa-brands fa-angular"></i>
-                </span>
-                <span class = "f-icon">
-                    <i class="fa-brands fa-bootstrap"></i>
-                </span>
-                <span class = "f-icon">
-                    <i class="fa-brands fa-laravel"></i>
-                </span>
-                <span class ="f-icon">
-                    <i class="fi fi-brands-node-js"></i>
-                </span>
-                <span class = "f-icon">
-                    <i class = "fi fi-brands-springboot"></i>
-                </span>
-                <span class = "f-icon">
-                    <i class = "fi fi-brands-nextjs"></i>
-                </span>
-                <span class = "f-icon">
-                    <i class = "fi fi-brands-tailwind"></i>
-                </span>
-            </div>
-        </section>
-    </main>
-    <footer class = "hero-footer">
-            <section class = "icons-container">
-                <a class = "icons" href  = "https://www.linkedin.com/in/john-daniel-tejero-5a5b13225/" target="blank">
-                    <i class="fa-brands fa-linkedin"></i>
-                </a>
-                <a class = "icons" href = "https://twitter.com/Imperobous" target = "blank">
-                    <i class="fa-brands fa-twitter"></i>
-                </a>
-                <a class = "icons" href = "https://www.discordapp.com/users/747707954572296215" target = "blank">
-                    <i class = "fa-brands fa-discord"></i>
-                </a>
+<body>
+    <div class = "hero">
+        <img src = "./coding.jpg" class = "float-img"/>
+        <main class = "content">
+            <h1 class = "header-title">HI, I AM JOHN DANIEL TEJERO.</h1>
+            <h4 class = "header-title" style = "margin-bottom:2rem;">BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY</h4>
+            <section class = "p-language">
+                <h4 class = "header-title">
+                    Languages Known
+                </h4>
+                <div class = "language-container">
+                    <span class = "language-icon">
+                        <i class="fa-brands fa-java"></i>
+                    </span>
+                    <span class = "language-icon">
+                        <i class="fa-brands fa-js"></i>
+                    </span>
+                    <span class = "language-icon">
+                        <i class="fa-brands fa-php"></i>
+                    </span>
+                    <span class = "language-icon">
+                        <i class="fi fi-brands-typescript"></i>
+                    </span>
+                    <span class = "language-icon">
+                        <i class="fa-brands fa-html5"></i>
+                    </span>
+                    <span class = "language-icon">
+                        <i class="fa-brands fa-css3-alt"></i>
+                    </span>
+                    <span class = "language-icon">
+                        <i class="fi fi-brands-mysql"></i>
+                    </span>
+                </div>
             </section>
-    </footer>
-</div>
-<br>
- 
-I am a second year at Baliuag University, undertaking Bachelor of Sicence in Information Technology specialization in web development. I am interested in web development especially in backend development.
-
-<hr>
-
-## How to reach me?
-for any inquires, please contact me: 
-- via email `johndanieltejero23@gmail.com`
-- via whatsapp `+63 939 641 6091`
-- or refer to the links given in the hero banner
-<hr>
-
-## I Am Currently Learning:
-- Tailwind CSS
-- Angular 
-- NextJs
-- TypeScript
-- PHP
-- Liferay
-<hr>
-
-## Stack That I Am Familiar With
-- Java
-- Spring Boot
-- Laravel
-- PHP
-- JavaScript
-- TypeScript
-- ReactJs
-
-
-
+            <section class = "frameworks" style = "height:10rem;">
+                <h4 class = "header-title">
+                    Frameworks and Tools
+                </h4>
+                <div class = "f-container">
+                    <span class = "f-icon">
+                        <i class="fa-brands fa-react"></i>
+                    </span>
+                    <span class = "f-icon">
+                        <i class="fa-brands fa-angular"></i>
+                    </span>
+                    <span class = "f-icon">
+                        <i class="fa-brands fa-bootstrap"></i>
+                    </span>
+                    <span class = "f-icon">
+                        <i class="fa-brands fa-laravel"></i>
+                    </span>
+                    <span class ="f-icon">
+                        <i class="fi fi-brands-node-js"></i>
+                    </span>
+                    <span class = "f-icon">
+                        <i class = "fi fi-brands-springboot"></i>
+                    </span>
+                    <span class = "f-icon">
+                        <i class = "fi fi-brands-nextjs"></i>
+                    </span>
+                    <span class = "f-icon">
+                        <i class = "fi fi-brands-tailwind"></i>
+                    </span>
+                </div>
+            </section>
+        </main>
+        <footer class = "hero-footer">
+                <section class = "icons-container">
+                    <a class = "icons" href  = "https://www.linkedin.com/in/john-daniel-tejero-5a5b13225/" target="blank">
+                        <i class="fa-brands fa-linkedin"></i>
+                    </a>
+                    <a class = "icons" href = "https://twitter.com/Imperobous" target = "blank">
+                        <i class="fa-brands fa-twitter"></i>
+                    </a>
+                    <a class = "icons" href = "https://www.discordapp.com/users/747707954572296215" target = "blank">
+                        <i class = "fa-brands fa-discord"></i>
+                    </a>
+                </section>
+        </footer>
+    </div>
+    <br>
+    I am a second year at Baliuag University, undertaking Bachelor of Sicence in Information Technology specialization in web development. I am interested in web development especially in backend development.
+    <hr>
+    <h2>How to reach me?</h2>
+    for any inquires, please contact me: 
+    <ul>
+        <li>
+            via email johndanieltejero23@gmail.com
+        </li>
+        <li>
+            via whatsapp +63 939 641 6091
+        </li>
+        <li>
+            or refer to the links given in the hero banner
+        </li>
+    </ul>
+    <hr>
+    <br>
+    <h2>I Am Currently Learning:</h2>
+    - Tailwind CSS
+    - Angular 
+    - NextJs
+    - TypeScript
+    - PHP
+    - Liferay
+    <hr>
+    <h2>Stack That I Am Familiar With:</h2>
+    - Java
+    - Spring Boot
+    - Laravel
+    - PHP
+    - JavaScript
+    - TypeScript
+    - ReactJs
+</body>
 <!---
 JohnDanielTejero/JohnDanielTejero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
