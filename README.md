@@ -1,6 +1,6 @@
 ![hero banner](/hero%20altermate.PNG)
 
-I am a second year at Baliuag University, undertaking Bachelor of Sicence in Information Technology specialization in web development. I am interested in web development especially in backend development.
+I am currently taking Bachelor of Sicence in Information Technology specialization in web development. I am interested in web development especially in backend development.
 
 <hr>
 
@@ -9,7 +9,6 @@ for any inquires, please contact me:
 - via email `johndanieltejero23@gmail.com`
 - via whatsapp `+63 939 641 6091`
 - [discord](https://www.discordapp.com/users/747707954572296215)
-- [twitter](https://twitter.com/Imperobous)
 - [linkedin](https://www.linkedin.com/in/john-daniel-tejero-5a5b13225/)
 <hr>    
 
