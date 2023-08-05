@@ -10,9 +10,7 @@ for any inquires, please contact me:
 <hr>    
 
 ## I Am Currently Learning:
-- NextJs
-- PHP
-- Liferay
+- NextJS
 <hr>
 
 ## Stack That I Am Familiar With
