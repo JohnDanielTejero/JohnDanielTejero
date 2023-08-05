@@ -7,27 +7,29 @@ I am currently taking Bachelor of Sicence in Information Technology specializati
 ## How to reach me?
 for any inquires, please contact me: 
 - via email `johndanieltejero23@gmail.com`
-- via whatsapp `+63 939 641 6091`
-- [discord](https://www.discordapp.com/users/747707954572296215)
 <hr>    
 
 ## I Am Currently Learning:
-- Tailwind CSS
-- Angular 
 - NextJs
-- TypeScript
 - PHP
 - Liferay
 <hr>
 
 ## Stack That I Am Familiar With
+- Tailwind CSS
+- Angular
+- MongoDB
+- MySQL
+- NestJS
+- TypeScript
 - Java
 - Spring Boot
 - Laravel
 - PHP
 - JavaScript
 - TypeScript
-- ReactJs
+- ReactJS
+- Bootstrap
 
 
 
