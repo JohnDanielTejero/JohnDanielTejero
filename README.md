@@ -1,25 +1,33 @@
 ![hero banner](/hero%20altermate.PNG)
 
-I am currently taking Bachelor of Sicence in Information Technology specialization in web development. I am interested in web development especially in backend development.
+# Carlos Agassi - happy na birthday mo pa!
+
+
+I am currently taking Bachelor of Science in Information Technology Specialization in Web and Mobile Development. I am aspiring to be a fullstack developer focusing mainly on backend development.
 
 <hr>
 
 ## How to reach me?
-for any inquires, please contact me: 
+For any inquires, please contact me: 
 - via email `johndanieltejero23@gmail.com`
 <hr>    
 
 ## I Am Currently Learning:
-- NextJS
+- How to get out of depression
+- Tauri (for capstone project)
+
 <hr>
 
-## Stack That I Am Familiar With
+## Currently Working on
+- Capstone Project
+
+## Technology That I Am Familiar With
 - Tailwind CSS
+- Kotlin
 - Angular
 - MongoDB
 - MySQL
 - NestJS
-- TypeScript
 - Java
 - Spring Boot
 - Laravel
@@ -28,10 +36,9 @@ for any inquires, please contact me:
 - TypeScript
 - ReactJS
 - Bootstrap
+- Material UI
+- ExpressJS
+- NodeJS
 
-
-
-<!---
-JohnDanielTejero/JohnDanielTejero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## NOTE:
+Ignore my repositories, most of them are pet projects for me to practice. 
