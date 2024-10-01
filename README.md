@@ -1,6 +1,4 @@
-![hero banner](/hero%20altermate.PNG)
-
-# A Depressed Esspresso
+# Done with Capstone
 
 
 I am currently taking Bachelor of Science in Information Technology Specialization in Web and Mobile Development. I am aspiring to be a fullstack developer focusing mainly on backend development.
