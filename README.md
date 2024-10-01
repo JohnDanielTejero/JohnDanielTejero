@@ -12,14 +12,7 @@ For any inquires, please contact me:
 - via email `johndanieltejero23@gmail.com`
 <hr>    
 
-## I Am Currently Learning:
-- How to get out of depression
-- Tauri (for capstone project)
-
 <hr>
-
-## Currently Working on
-- Capstone Project
 
 ## Technology That I Am Familiar With
 - Tailwind CSS
