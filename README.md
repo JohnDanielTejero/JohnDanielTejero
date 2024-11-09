@@ -1,5 +1,4 @@
-# Done with Capstone
-
+# OVERVIEW
 
 I am currently taking Bachelor of Science in Information Technology Specialization in Web and Mobile Development. I am aspiring to be a fullstack developer focusing mainly on backend development.
 
@@ -12,24 +11,26 @@ For any inquires, please contact me:
 
 <hr>
 
-## Technology That I Am Familiar With
-- Tailwind CSS
+## Programming Language 
 - Kotlin
-- Angular
-- MongoDB
-- MySQL
-- NestJS
-- Java
-- Spring Boot
-- Laravel
-- PHP
 - JavaScript
 - TypeScript
-- ReactJS
-- Bootstrap
-- Material UI
-- ExpressJS
-- NodeJS
+- PHP
+- Java
+- Dart
 
-## NOTE:
-Ignore my repositories, most of them are pet projects for me to practice. 
+## Technologies and Frameworks
+- Angular
+- ReactJS
+- Flutter
+- MongoDB
+- MySQL
+- PostgreSQL
+- Material UI
+- Tailwindcss
+- Bootstrap
+- NestJs
+- Spring Boot
+- Laravel
+- ExpressJs
+
