@@ -1,6 +1,6 @@
 # OVERVIEW
 
-I am currently taking Bachelor of Science in Information Technology Specialization in Web and Mobile Development. I am aspiring to be a fullstack developer focusing mainly on backend development.
+I am currently taking Bachelor of Science in Information Technology Specialization in Web and Mobile App Development. I am aspiring backend developer.
 
 <hr>
 
@@ -9,8 +9,6 @@ For any inquires, please contact me:
 - via email `johndanieltejero23@gmail.com`
 <hr>    
 
-<hr>
-
 ## Programming Language 
 - Kotlin
 - JavaScript
@@ -18,6 +16,8 @@ For any inquires, please contact me:
 - PHP
 - Java
 - Dart
+- Swift
+- Python
 
 ## Technologies and Frameworks
 - Angular
