@@ -1,7 +1,4 @@
 # OVERVIEW
-
-I am currently taking Bachelor of Science in Information Technology Specialization in Web and Mobile App Development. I am aspiring backend developer.
-
 <hr>
 
 ## How to reach me?
