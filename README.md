@@ -33,4 +33,8 @@ For any inquires, please contact me:
 - Spring Boot
 - Laravel
 - ExpressJs
+## Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=JohnDanielTejero&theme=nord)](https://github.com/JohnDanielTejero/JohnDanielTejero)
+## Top Language
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDanielTejero&layout=compact&langs_count=5&theme=radical)
 
