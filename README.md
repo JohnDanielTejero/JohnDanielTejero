@@ -18,9 +18,11 @@ For any inquires, please contact me:
 
 ## Technologies and Frameworks
 - Angular
-- ReactJS
+- Reactjs
 - Flutter
+- Jetpack Compose
 - MongoDB
+- Firebase
 - MySQL
 - PostgreSQL
 - Material UI
@@ -29,9 +31,9 @@ For any inquires, please contact me:
 - NestJs
 - Spring Boot
 - Laravel
-- ExpressJs
-## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=JohnDanielTejero&theme=nord)](https://github.com/JohnDanielTejero/JohnDanielTejero)
-## Top Language
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDanielTejero&layout=compact&langs_count=5&theme=radical)
+- Express.js
+  
+| **STATS** | **TOP LANGUAGES**  |
+|-----|--------------|
+|[![Stats](https://github-readme-stats.vercel.app/api?username=JohnDanielTejero&theme=nord)](https://github.com/JohnDanielTejero/JohnDanielTejero)|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDanielTejero&layout=compact&langs_count=5&theme=radical)](https://github.com/JohnDanielTejero/JohnDanielTejero)|
 
