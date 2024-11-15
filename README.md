@@ -3,6 +3,7 @@ Hi, I am John Daniel Tejero, a student undertaking Bachelor of Science in Inform
 I am an aspiring fullstack developer.
 
 <hr>
+
 ## Contacts:
 You can contact me via the following platform/s: 
 
